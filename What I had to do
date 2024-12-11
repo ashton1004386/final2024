@@ -1,0 +1,26 @@
+on a Linux box.
+for kvm and VMWare Workstation
+create a new vm of debian 12 - like we did in class
+do not install a gui (if nesting you will need a gui)
+add the openssh server show how to login
+add the webserver and change the default home page
+add 2 small disks to the VM (5gig)
+create 1 volume group (vg)
+create 1 mount point (lv)
+Add mount point to /etc/fstab using its UUID from blkid
+add a tux user
+set up the Serial Console
+set up the sudo user for tux
+create 2 new directories bin and inclass for the tux user
+add these to $PATH for tux user
+add .funcs with the following
+calcit() you will need bc
+whdr()
+wftr()
+completeness counts
+this project is for your portfolio
+post somewhere public (freeshell.org/github/google pages/etc ..)
+submit your link
+your grade will be on the clarity of notes
+
+Bonus Points. (Nest your virtual machines. VMWare running KVM and/or KVM running VMWare
