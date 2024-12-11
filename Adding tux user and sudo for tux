@@ -1,0 +1,1 @@
+This was quite simple. I did this first so i could use sudo command when logged in with tux. First i had to go into root using the su - command. Then i added a user then used sudo usermod -aG sudo tux to add tux to the sudo group. The two pictures show that tux user is made and that tux is added to the user group
