@@ -1,0 +1,1 @@
+I went into the Vm workstation settings then added two 5 GB hard disk to the new VM, then powered on the VM and put in Lsblk to confirm that the hard disk that i put in are there. I used VM workstation
