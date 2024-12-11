@@ -1,0 +1,1 @@
+First i had to Install the OpenSSHserver to allow access. Then i had to Start the SSH service so it's ready to use, after that then i would Enable it to run automatically every time the system boots. I had to Find the computer’s IP address to connect to it. Connect to a webserver like Apache to host a website then start the webserver.  Not too hard
